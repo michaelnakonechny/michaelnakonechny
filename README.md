@@ -8,7 +8,7 @@ I’m currently learning Web Development @neuefische.
 - React 
 - ...and everything what goes with it.
 
-Special interests: #crypto #web3 #blockchain, focused on [Liquidity Mining](https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi) on $ETH, $FTM, $ATOM and everything what's build on those, especially [$CRV](https://curve.fi/)
+Special interests: #crypto #web3 #blockchain, focused on ~~losing money~~ [Liquidity Mining](https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi) on $ETH, $FTM, $ATOM and everything what's build on those, especially [$CRV](https://curve.fi/). 
 
 
 
