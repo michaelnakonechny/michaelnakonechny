@@ -12,10 +12,11 @@ Special interests: #crypto #web3 #blockchain, focused on ~~losing money~~ [Liqui
 
 
 
-![Place Curve logo](https://curve.fi/logo.png)
+![Place Curve logo](https://curve.fi/logo.png) [^1]
 
 
 
 <!--
 **michaelnakonechny/michaelnakonechny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[^1]: Say yes to non-orientable shapes.
