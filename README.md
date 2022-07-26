@@ -16,7 +16,7 @@ Special interests: #Crypto, #web3, #blockchain focused on ~~losing money~~ [Liqu
 
 
 
-[![michaelnakonechny's github stats](https://github-readme-stats.vercel.app/api?username=ostermann-felix&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostermann-felix&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![michaelnakonechny's github stats](https://github-readme-stats.vercel.app/api?username=michaelnakonechny&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnakonechny&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,mongodb,nodejs,html,css,figma,)](https://skills.thijs.gg)
