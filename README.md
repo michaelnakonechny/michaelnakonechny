@@ -16,6 +16,12 @@ Special interests: #Crypto, #web3, #blockchain focused on ~~losing money~~ [Liqu
 
 
 
+[![michaelnakonechny's github stats](https://github-readme-stats.vercel.app/api?username=ostermann-felix&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostermann-felix&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,mongodb,nodejs,html,css,figma,)](https://skills.thijs.gg)
+
+
 <!--
 **michaelnakonechny/michaelnakonechny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
